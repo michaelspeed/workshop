@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>555244153897-fkmqvukbvdof8gn8m0ebvridarim1l2r.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.555244153897-fkmqvukbvdof8gn8m0ebvridarim1l2r</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAd13Pfyw0rQuBH12wXr1-xMeEkJ9oUO1k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>555244153897</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.NetFlixClone</string>
+	<key>PROJECT_ID</key>
+	<string>workshop-57074</string>
+	<key>STORAGE_BUCKET</key>
+	<string>workshop-57074.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:555244153897:ios:6b2c6149b7dc9adf748038</string>
+	<key>DATABASE_URL</key>
+	<string>https://workshop-57074.firebaseio.com</string>
+</dict>
+</plist>

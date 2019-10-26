@@ -26,18 +26,11 @@ import {
 import NavigationBar from './src/Components/NavigationBar';
 import Jumbotron from './src/Components/Jumbotron';
 import MyList from './src/Components/MyList';
+import TabNavigation from './src/Components/Navigations/TabNavigation';
 
 const App: () => React$Node = () => {
   return (
-    <SafeAreaView>
-      <ScrollView>
-      <View style={{backgroundColor: 'black'}}>
-        <NavigationBar/>
-        <Jumbotron/>
-        <MyList/>
-      </View>
-      </ScrollView>
-    </SafeAreaView>
+    <TabNavigation/>
   );
 };
 
